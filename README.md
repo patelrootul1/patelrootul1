@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Swift**
 
-- 💬 Ask me about **Java, C# and Java**
+- 💬 Ask me about **Java, C# and JavaScript**
 
 - 📫 How to reach me **rooatwork1@gmail.com**
 
