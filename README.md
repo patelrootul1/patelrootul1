@@ -28,5 +28,6 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelrootul1&show_icons=true&locale=en&layout=compact" alt="patelrootul1" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelrootul1&" alt="patelrootul1" /></p>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelrootul1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
